@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Relationship",
     "colorLabel": "Grey",
-    "nodeLabel": "DesignCommunity Building Subcategory/ Twitter Location"
+    "nodeLabel": "Community Building Subcategory/ Followers Count"
   },
   "features": {
     "search": true,
